@@ -5,7 +5,7 @@ This project is a seed project for you to get cesium run in a VueJS skyfolded by
 ```
 npm install
 ```
-Set your Cesium token at /src/components/CesiumMap.vue . Your Cesium token can be get from https://cesium.com/ion/assets/2 after you sign in.
+Set your Cesium token at /src/components/CesiumMap.vue . Your Cesium token can be get from https://cesium.com/ion/tokens after you sign in.
 
 ### Compiles and hot-reloads for development
 ```
